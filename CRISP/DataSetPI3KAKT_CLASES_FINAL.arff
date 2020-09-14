@@ -2,7 +2,7 @@
 
 @attribute Ras numeric
 @attribute p21Cip1 numeric
-@attribute EBP1 numeric
+@attribute 4EBP1 numeric
 @attribute MAPK numeric
 @attribute NFkB numeric
 @attribute p70S6K numeric
