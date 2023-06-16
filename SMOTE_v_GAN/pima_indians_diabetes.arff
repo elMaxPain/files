@@ -1,16 +1,16 @@
-@relation pima_indians_diabetes
+@RELATION pima_indians_diabetes
 
-@attribute plasma_glucose numeric
-@attribute glucose_tolerance numeric
-@attribute diastolic numeric
-@attribute skin_thickness numeric
-@attribute serum_insulin numeric
-@attribute bmi numeric
-@attribute diabetes_pedigree numeric
-@attribute age numeric
-@attribute class {0,1}
+@ATTRIBUTE plasma_glucose REAL
+@ATTRIBUTE glucose_tolerance REAL
+@ATTRIBUTE diastolic REAL
+@ATTRIBUTE skin_thickness REAL
+@ATTRIBUTE serum_insulin REAL
+@ATTRIBUTE bmi REAL
+@ATTRIBUTE diabetes_pedigree REAL
+@ATTRIBUTE age REAL
+@ATTRIBUTE class {0,1}
 
-@data
+@DATA
 6,148,72,35,0,33.6,0.627,50,1
 1,85,66,29,0,26.6,0.351,31,0
 8,183,64,0,0,23.3,0.672,32,1
