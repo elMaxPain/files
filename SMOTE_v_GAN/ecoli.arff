@@ -7,7 +7,7 @@
 @attribute aac real
 @attribute alm1 real
 @attribute alm2 real
-@attribute class {cp,im,pp,imU,om,omL,imL,imS}
+@attribute CLASS {cp,im,pp,imU,om,omL,imL,imS}
 
 @data
 0.49,0.29,0.48,0.50,0.56,0.24,0.35,cp
