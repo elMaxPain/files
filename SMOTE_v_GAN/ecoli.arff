@@ -1,12 +1,12 @@
-@relation pima_indians_diabetes
+@relation ecoli
 
-@attribute mcg numeric
-@attribute gvh numeric
-@attribute lip numeric
-@attribute chg numeric
-@attribute aac numeric
-@attribute alm1 numeric
-@attribute alm2 numeric
+@attribute mcg real
+@attribute gvh real
+@attribute lip real
+@attribute chg real
+@attribute aac real
+@attribute alm1 real
+@attribute alm2 real
 @attribute class {cp,im,pp,imU,om,omL,imL,imS}
 
 @data
