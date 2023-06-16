@@ -1,7 +1,7 @@
 @RELATION pima_indians_diabetes
 
+@ATTRIBUTE times_pregnant REAL
 @ATTRIBUTE plasma_glucose REAL
-@ATTRIBUTE glucose_tolerance REAL
 @ATTRIBUTE diastolic REAL
 @ATTRIBUTE skin_thickness REAL
 @ATTRIBUTE serum_insulin REAL
@@ -11,7 +11,20 @@
 @ATTRIBUTE CLASS {0,1}
 
 @DATA
-6,148,72,35,0,33.6,0.627,50,1
+6,
+148,
+72,
+35,
+0,
+33.6,
+0.627,
+50,
+1
+
+
+
+
+
 1,85,66,29,0,26.6,0.351,31,0
 8,183,64,0,0,23.3,0.672,32,1
 1,89,66,23,94,28.1,0.167,21,0
