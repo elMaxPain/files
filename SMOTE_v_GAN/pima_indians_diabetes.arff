@@ -1,6 +1,5 @@
 @relation pima_indians_diabetes
 
-//@attribute times_pregnant numeric
 @attribute plasma_glucose numeric
 @attribute glucose_tolerance numeric
 @attribute diastolic numeric
